@@ -1,0 +1,24 @@
+C:\Users\Misha\documents\visual studio 2010\Projects\ISP 3.0\ISP 3.0\bin\Debug\ISP 3.0.exe
+C:\Users\Misha\documents\visual studio 2010\Projects\ISP 3.0\ISP 3.0\bin\Debug\ISP 3.0.pdb
+C:\Users\Misha\documents\visual studio 2010\Projects\ISP 3.0\ISP 3.0\bin\Debug\ISP 3.0.xml
+C:\Users\Misha\documents\visual studio 2010\Projects\ISP 3.0\ISP 3.0\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Misha\documents\visual studio 2010\Projects\ISP 3.0\ISP 3.0\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Misha\documents\visual studio 2010\Projects\ISP 3.0\ISP 3.0\obj\x86\Debug\ISP 3.0.vbproj.GenerateResource.Cache
+C:\Users\Misha\documents\visual studio 2010\Projects\ISP 3.0\ISP 3.0\obj\x86\Debug\ISP 3.0.exe
+C:\Users\Misha\documents\visual studio 2010\Projects\ISP 3.0\ISP 3.0\obj\x86\Debug\ISP 3.0.xml
+C:\Users\Misha\documents\visual studio 2010\Projects\ISP 3.0\ISP 3.0\obj\x86\Debug\ISP 3.0.pdb
+F:\ISP 3.0\ISP 3.0\obj\x86\Debug\ISP 3.0.exe
+F:\ISP 3.0\ISP 3.0\obj\x86\Debug\ISP 3.0.xml
+F:\ISP 3.0\ISP 3.0\obj\x86\Debug\ISP 3.0.pdb
+F:\ISP 3.0\ISP 3.0\bin\Debug\ISP 3.0.exe
+F:\ISP 3.0\ISP 3.0\bin\Debug\ISP 3.0.pdb
+F:\ISP 3.0\ISP 3.0\bin\Debug\ISP 3.0.xml
+F:\ISP 3.0\ISP 3.0\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\ISP 3.0\ISP 3.0\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\ISP 3.0\ISP 3.0\obj\x86\Debug\ISP 3.0.vbproj.GenerateResource.Cache
+E:\Michael ISP\ISP 3.0\obj\x86\Debug\ISP 3.0.exe
+E:\Michael ISP\ISP 3.0\obj\x86\Debug\ISP 3.0.xml
+E:\Michael ISP\ISP 3.0\obj\x86\Debug\ISP 3.0.pdb
+D:\ICS3U ISP\Michael\Michael ISP\ISP 3.0\obj\x86\Debug\ISP 3.0.exe
+D:\ICS3U ISP\Michael\Michael ISP\ISP 3.0\obj\x86\Debug\ISP 3.0.xml
+D:\ICS3U ISP\Michael\Michael ISP\ISP 3.0\obj\x86\Debug\ISP 3.0.pdb
