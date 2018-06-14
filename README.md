@@ -1,1 +1,1 @@
-# Michael-ISP
+# ISPs for ICS3U Course
