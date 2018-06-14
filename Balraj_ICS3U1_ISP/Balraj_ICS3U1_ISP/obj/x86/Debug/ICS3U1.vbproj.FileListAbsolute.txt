@@ -1,0 +1,9 @@
+C:\Users\344053384\AppData\Local\Temporary Projects\ICS3U1\bin\Debug\ICS3U1.exe
+C:\Users\344053384\AppData\Local\Temporary Projects\ICS3U1\bin\Debug\ICS3U1.pdb
+C:\Users\344053384\AppData\Local\Temporary Projects\ICS3U1\bin\Debug\ICS3U1.xml
+C:\Users\344053384\AppData\Local\Temporary Projects\ICS3U1\obj\x86\Debug\ICS3U1.Form1.resources
+C:\Users\344053384\AppData\Local\Temporary Projects\ICS3U1\obj\x86\Debug\ICS3U1.Resources.resources
+C:\Users\344053384\AppData\Local\Temporary Projects\ICS3U1\obj\x86\Debug\ICS3U1.vbproj.GenerateResource.Cache
+C:\Users\344053384\AppData\Local\Temporary Projects\ICS3U1\obj\x86\Debug\ICS3U1.exe
+C:\Users\344053384\AppData\Local\Temporary Projects\ICS3U1\obj\x86\Debug\ICS3U1.xml
+C:\Users\344053384\AppData\Local\Temporary Projects\ICS3U1\obj\x86\Debug\ICS3U1.pdb
