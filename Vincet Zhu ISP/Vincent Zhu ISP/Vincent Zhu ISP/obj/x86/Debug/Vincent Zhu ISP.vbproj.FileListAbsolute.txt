@@ -1,0 +1,18 @@
+C:\Users\vince\AppData\Local\Temporary Projects\Vincent Zhu ISP\bin\Debug\Vincent Zhu ISP.exe
+C:\Users\vince\AppData\Local\Temporary Projects\Vincent Zhu ISP\bin\Debug\Vincent Zhu ISP.pdb
+C:\Users\vince\AppData\Local\Temporary Projects\Vincent Zhu ISP\bin\Debug\Vincent Zhu ISP.xml
+C:\Users\vince\AppData\Local\Temporary Projects\Vincent Zhu ISP\obj\x86\Debug\Vincent_Zhu_ISP.Form1.resources
+C:\Users\vince\AppData\Local\Temporary Projects\Vincent Zhu ISP\obj\x86\Debug\Vincent_Zhu_ISP.Resources.resources
+C:\Users\vince\AppData\Local\Temporary Projects\Vincent Zhu ISP\obj\x86\Debug\Vincent Zhu ISP.vbproj.GenerateResource.Cache
+C:\Users\vince\AppData\Local\Temporary Projects\Vincent Zhu ISP\obj\x86\Debug\Vincent Zhu ISP.exe
+C:\Users\vince\AppData\Local\Temporary Projects\Vincent Zhu ISP\obj\x86\Debug\Vincent Zhu ISP.xml
+C:\Users\vince\AppData\Local\Temporary Projects\Vincent Zhu ISP\obj\x86\Debug\Vincent Zhu ISP.pdb
+C:\Users\vince\OneDrive\桌面\Vincent Zhu ISP\Vincent Zhu ISP\obj\x86\Debug\Vincent Zhu ISP.exe
+C:\Users\vince\OneDrive\桌面\Vincent Zhu ISP\Vincent Zhu ISP\obj\x86\Debug\Vincent Zhu ISP.xml
+C:\Users\vince\OneDrive\桌面\Vincent Zhu ISP\Vincent Zhu ISP\obj\x86\Debug\Vincent Zhu ISP.pdb
+C:\Users\vince\OneDrive\桌面\Vincent Zhu ISP\Vincent Zhu ISP\bin\Debug\Vincent Zhu ISP.exe
+C:\Users\vince\OneDrive\桌面\Vincent Zhu ISP\Vincent Zhu ISP\bin\Debug\Vincent Zhu ISP.pdb
+C:\Users\vince\OneDrive\桌面\Vincent Zhu ISP\Vincent Zhu ISP\bin\Debug\Vincent Zhu ISP.xml
+C:\Users\vince\OneDrive\桌面\Vincent Zhu ISP\Vincent Zhu ISP\obj\x86\Debug\Vincent_Zhu_ISP.Form1.resources
+C:\Users\vince\OneDrive\桌面\Vincent Zhu ISP\Vincent Zhu ISP\obj\x86\Debug\Vincent_Zhu_ISP.Resources.resources
+C:\Users\vince\OneDrive\桌面\Vincent Zhu ISP\Vincent Zhu ISP\obj\x86\Debug\Vincent Zhu ISP.vbproj.GenerateResource.Cache
