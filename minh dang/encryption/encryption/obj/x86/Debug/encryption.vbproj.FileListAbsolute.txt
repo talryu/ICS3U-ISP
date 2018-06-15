@@ -1,0 +1,15 @@
+C:\Users\nhatm\onedrive\documents\visual studio 2010\Projects\encryption\encryption\bin\Debug\encryption.exe
+C:\Users\nhatm\onedrive\documents\visual studio 2010\Projects\encryption\encryption\bin\Debug\encryption.pdb
+C:\Users\nhatm\onedrive\documents\visual studio 2010\Projects\encryption\encryption\bin\Debug\encryption.xml
+C:\Users\nhatm\onedrive\documents\visual studio 2010\Projects\encryption\encryption\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\nhatm\onedrive\documents\visual studio 2010\Projects\encryption\encryption\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\nhatm\onedrive\documents\visual studio 2010\Projects\encryption\encryption\obj\x86\Debug\encryption.vbproj.GenerateResource.Cache
+C:\Users\nhatm\onedrive\documents\visual studio 2010\Projects\encryption\encryption\obj\x86\Debug\encryption.exe
+C:\Users\nhatm\onedrive\documents\visual studio 2010\Projects\encryption\encryption\obj\x86\Debug\encryption.xml
+C:\Users\nhatm\onedrive\documents\visual studio 2010\Projects\encryption\encryption\obj\x86\Debug\encryption.pdb
+D:\ICS3U ISP\encryption\encryption\obj\x86\Debug\encryption.exe
+D:\ICS3U ISP\encryption\encryption\obj\x86\Debug\encryption.xml
+D:\ICS3U ISP\encryption\encryption\obj\x86\Debug\encryption.pdb
+D:\ICS3U ISP\minh dang\encryption\encryption\obj\x86\Debug\encryption.exe
+D:\ICS3U ISP\minh dang\encryption\encryption\obj\x86\Debug\encryption.xml
+D:\ICS3U ISP\minh dang\encryption\encryption\obj\x86\Debug\encryption.pdb
