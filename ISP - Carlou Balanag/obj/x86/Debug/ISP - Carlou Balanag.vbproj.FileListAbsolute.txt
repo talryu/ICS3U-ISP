@@ -1,0 +1,9 @@
+C:\Users\324680735\AppData\Local\Temporary Projects\ISP - Carlou Balanag\bin\Debug\ISP - Carlou Balanag.exe
+C:\Users\324680735\AppData\Local\Temporary Projects\ISP - Carlou Balanag\bin\Debug\ISP - Carlou Balanag.pdb
+C:\Users\324680735\AppData\Local\Temporary Projects\ISP - Carlou Balanag\bin\Debug\ISP - Carlou Balanag.xml
+C:\Users\324680735\AppData\Local\Temporary Projects\ISP - Carlou Balanag\obj\x86\Debug\ISP___Carlou_Balanag.Form1.resources
+C:\Users\324680735\AppData\Local\Temporary Projects\ISP - Carlou Balanag\obj\x86\Debug\ISP___Carlou_Balanag.Resources.resources
+C:\Users\324680735\AppData\Local\Temporary Projects\ISP - Carlou Balanag\obj\x86\Debug\ISP - Carlou Balanag.vbproj.GenerateResource.Cache
+C:\Users\324680735\AppData\Local\Temporary Projects\ISP - Carlou Balanag\obj\x86\Debug\ISP - Carlou Balanag.exe
+C:\Users\324680735\AppData\Local\Temporary Projects\ISP - Carlou Balanag\obj\x86\Debug\ISP - Carlou Balanag.xml
+C:\Users\324680735\AppData\Local\Temporary Projects\ISP - Carlou Balanag\obj\x86\Debug\ISP - Carlou Balanag.pdb
