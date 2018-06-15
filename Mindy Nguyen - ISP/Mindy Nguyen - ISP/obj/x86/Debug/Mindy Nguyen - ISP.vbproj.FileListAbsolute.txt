@@ -1,0 +1,9 @@
+C:\Users\325010858\AppData\Local\Temporary Projects\Mindy Nguyen - ISP\bin\Debug\Mindy Nguyen - ISP.exe
+C:\Users\325010858\AppData\Local\Temporary Projects\Mindy Nguyen - ISP\bin\Debug\Mindy Nguyen - ISP.pdb
+C:\Users\325010858\AppData\Local\Temporary Projects\Mindy Nguyen - ISP\bin\Debug\Mindy Nguyen - ISP.xml
+C:\Users\325010858\AppData\Local\Temporary Projects\Mindy Nguyen - ISP\obj\x86\Debug\Mindy_Nguyen___ISP.Form1.resources
+C:\Users\325010858\AppData\Local\Temporary Projects\Mindy Nguyen - ISP\obj\x86\Debug\Mindy_Nguyen___ISP.Resources.resources
+C:\Users\325010858\AppData\Local\Temporary Projects\Mindy Nguyen - ISP\obj\x86\Debug\Mindy Nguyen - ISP.vbproj.GenerateResource.Cache
+C:\Users\325010858\AppData\Local\Temporary Projects\Mindy Nguyen - ISP\obj\x86\Debug\Mindy Nguyen - ISP.exe
+C:\Users\325010858\AppData\Local\Temporary Projects\Mindy Nguyen - ISP\obj\x86\Debug\Mindy Nguyen - ISP.xml
+C:\Users\325010858\AppData\Local\Temporary Projects\Mindy Nguyen - ISP\obj\x86\Debug\Mindy Nguyen - ISP.pdb
